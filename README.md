@@ -1,1 +1,1 @@
-Making a Ransomware Using Pythin 
+Making a Ransomware Using Python
