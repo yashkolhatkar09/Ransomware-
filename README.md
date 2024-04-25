@@ -13,7 +13,7 @@ You can run the Construction.py in a folder to decrpyt all the files
 
 ## Installation
 
-Install my-project with npm
+Install these to run the program
 
 ```bash
     pip install cryptography
