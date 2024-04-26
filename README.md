@@ -12,7 +12,7 @@ You can run the Construction.py in a folder to decrpyt all the files
 > [!CAUTION]
 > This ransomware program is malicious and can result in irreversible loss of data. Use at your own risk and only in ethical, legal contexts
 
-Install these to run the program![Screenshot 2024-04-26 145959]
+Install these to run the program!
 
 ```bash
     pip install cryptography
