@@ -9,9 +9,8 @@ You can run the Destruction.py in a folder to encrpyt all the files
 
 You can run the Construction.py in a folder to decrpyt all the files 
 
-
-
-## Installation
+> [!CAUTION]
+> This ransomware program is malicious and can result in irreversible loss of data. Use at your own risk and only in ethical, legal contexts
 
 Install these to run the program![Screenshot 2024-04-26 145959]
 
