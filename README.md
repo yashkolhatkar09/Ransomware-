@@ -37,8 +37,9 @@ The --onefile command is important as the exe files can run even on the laptops 
 Running destruction.py/ destruction.exe
 ![Screenshot 2024-04-26 145959](https://github.com/yashkolhatkar09/Ransomware-/assets/138909671/74d2c2ba-d81c-4709-bf3b-fc827f6803d1)
 
+Encrypted Files 
 
-
+![Screenshot 2024-04-26 150200](https://github.com/yashkolhatkar09/Ransomware-/assets/138909671/fdc12990-85ab-4ec9-9fc3-2fcb62e816e9)
 
 Running construction.py/construction.exe 
 
