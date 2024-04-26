@@ -16,7 +16,6 @@ Install these to run the program!
 
 ```bash
     pip install cryptography
-    pip install pyinstaller
 
 
 ```
@@ -24,6 +23,7 @@ Install these to run the program!
 To make your Own Exe Files 
 
 ```bash
+    pip install pyinstaller
     pyinstaller --onefile destruction.py
     pyinstaller --onefile construction.py
 ```
